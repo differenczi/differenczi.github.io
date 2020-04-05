@@ -22,6 +22,8 @@
 - [Kafka](/kafka)
 - [Spark](/spark)
 
+---
+
 ### Publications
 
 - [Nothing here yet]
