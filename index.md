@@ -2,16 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Photos 
 
-[Project 1 Title](/sample_page)
+[Sprint 2020](/sample_page)
 <img src="FlowersSprint2020.jpeg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Science
 
-- [Project 1 Title](http://example.com/)
+- [Jupyter noteboos](http://example.com/)
 
 ---
 
