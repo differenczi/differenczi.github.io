@@ -4,17 +4,20 @@
 
 ### Photos 
 
-[Sprint 2020](/sample_page)
+[Spring 2020](/sample_page)
 <img src="FlowersSprint2020.jpeg?raw=true"/>
 
 ---
 
 ### Data Science
 
-- [Jupyter noteboos](http://example.com/)
+- [Jupyter noteboos](https://github.com/differenczi)
 
 ---
 
+### Quantum 
+
+- [Nothing here yet]
 
 
 
