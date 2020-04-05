@@ -4,8 +4,8 @@
 
 ### Photos 
 
-[Spring 2020](/sample_page)
-<img src="FlowersSprint2020.jpeg?raw=true"/>
+[Spring 2020](/sprint2020)
+<img src="images/FlowersSprint2020.jpeg?raw=true"/>
 
 ---
 
