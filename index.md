@@ -16,6 +16,12 @@
 
 ---
 
+### Useful tricks
+
+- [Bash](/bash)
+- [Kafka](/kafka)
+- [Spark](/spark)
+
 ### Publications
 
 - [Nothing here yet]
