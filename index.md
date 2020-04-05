@@ -11,11 +11,11 @@
 
 ### Data Science
 
-- [Jupyter noteboos](https://github.com/differenczi)
+- [Jupyter notebooks](https://github.com/differenczi)
 
 ---
 
-### Quantum 
+### Publications
 
 - [Nothing here yet]
 
