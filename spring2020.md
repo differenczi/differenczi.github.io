@@ -5,5 +5,14 @@ office I took the time in the morning to try out my Google Pixel
 
 ### 2020 March xyz 
 
-<img src="images/spring2020/*.jpg?raw=true"/>
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains 'images/spring2020' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
 
