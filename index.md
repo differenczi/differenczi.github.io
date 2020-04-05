@@ -5,7 +5,7 @@
 ### Photos
 
 [Spring 2020](/spring2020)
-<img src="images/FlowersSprint2020.jpeg?raw=true"/>
+<img src="images/FlowersSprint2020.jpeg?raw=true" width="40%"/>
 
 ---
 
