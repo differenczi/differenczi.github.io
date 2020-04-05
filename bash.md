@@ -1,6 +1,6 @@
 ## Bash tricks
 
-**Project description:** Here all sorts of bash tricks
+**Description:** Here I list some bash tricks
 
 ### 1. Git shortcuts
 
