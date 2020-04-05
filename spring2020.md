@@ -8,6 +8,8 @@ office I took the time in the morning to try out my Google Pixel
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   {{ myimage.path }}
+  <img src="images/FlowersSprint2020.jpg?raw=true"/>
+  <img src="{{ myimage.path }}?raw=true"/>
 {% endfor %}
 
 {% for image in site.static_files %}
